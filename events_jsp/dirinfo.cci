@@ -1,0 +1,14 @@
+<?xml version="1.0"?><!-- This file is used by CodeCharge for locking edited files. It may be removed when file locking is not desired. --><Files><File name="admincategoriesgrid.jsp" time="25.06.2001 20:09:58" page="AdminCategoriesGrid"/>
+<File name="admincategoriesrecord.jsp" time="25.06.2001 20:09:58" page="AdminCategoriesRecord"/>
+<File name="admineventsgrid.jsp" time="25.06.2001 20:09:58" page="AdminEventsGrid"/>
+<File name="admineventsrecord.jsp" time="25.06.2001 20:09:58" page="AdminEventsRecord"/>
+<File name="adminmenu.jsp" time="25.06.2001 20:09:58" page="AdminMenu"/>
+<File name="adminusersgrid.jsp" time="25.06.2001 20:09:58" page="AdminUsersGrid"/>
+<File name="adminusersrecord.jsp" time="25.06.2001 20:09:58" page="AdminUsersRecord"/>
+<File name="common.jsp" time="25.06.2001 20:09:58" page=""/>
+<File name="default.jsp" time="25.06.2001 20:09:58" page="Default"/>
+<File name="eventnew.jsp" time="25.06.2001 20:09:58" page="EventNew"/>
+<File name="eventview.jsp" time="25.06.2001 20:09:58" page="EventView"/>
+<File name="header.jsp" time="25.06.2001 20:09:58" page="Header"/>
+<File name="login.jsp" time="25.06.2001 20:09:58" page="Login"/>
+</Files>

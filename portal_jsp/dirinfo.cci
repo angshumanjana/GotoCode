@@ -1,0 +1,30 @@
+<!-- This file is used by CodeCharge for locking edited files. It may be removed when file locking is not desired. -->
+<Files><File name="account.jsp" time="25.06.2001 20:34:19" page="Account"/>
+	<File name="addlink.jsp" time="25.06.2001 20:34:18" page="AddLink"/>
+	<File name="adminarticles.jsp" time="25.06.2001 20:34:18" page="AdminArticles"/>
+	<File name="adminevents.jsp" time="25.06.2001 20:34:18" page="AdminEvents"/>
+	<File name="adminlinks.jsp" time="25.06.2001 20:34:18" page="AdminLinks"/>
+	<File name="adminmembers.jsp" time="25.06.2001 20:34:18" page="AdminMembers"/>
+	<File name="adminmenu.jsp" time="25.06.2001 20:34:18" page="AdminMenu"/>
+	<File name="adminnews.jsp" time="25.06.2001 20:34:19" page="AdminNews"/>
+	<File name="adminofficers.jsp" time="25.06.2001 20:34:18" page="AdminOfficers"/>
+	<File name="articles.jsp" time="25.06.2001 20:34:18" page="Articles"/>
+	<File name="common.jsp" time="25.06.2001 20:34:18" page=""/>
+	<File name="default.jsp" time="25.06.2001 20:34:18" page="Default"/>
+	<File name="editarticle.jsp" time="25.06.2001 20:34:18" page="EditArticle"/>
+	<File name="editevent.jsp" time="25.06.2001 20:34:18" page="EditEvent"/>
+	<File name="editlink.jsp" time="25.06.2001 20:34:18" page="EditLink"/>
+	<File name="editmembers.jsp" time="25.06.2001 20:34:18" page="EditMembers"/>
+	<File name="editnews.jsp" time="25.06.2001 20:34:19" page="EditNews"/>
+	<File name="editofficer.jsp" time="25.06.2001 20:34:18" page="EditOfficer"/>
+	<File name="events.jsp" time="25.06.2001 20:34:18" page="Events"/>
+	<File name="footer.jsp" time="25.06.2001 20:34:18" page="Footer"/>
+	<File name="header.jsp" time="25.06.2001 20:34:18" page="Header"/>
+	<File name="links.jsp" time="25.06.2001 20:34:18" page="Links"/>
+	<File name="login.jsp" time="25.06.2001 20:34:18" page="Login"/>
+	<File name="memberinfo.jsp" time="25.06.2001 20:34:19" page="MemberInfo"/>
+	<File name="memberrecord.jsp" time="25.06.2001 20:34:19" page="MemberRecord"/>
+	<File name="members.jsp" time="25.06.2001 20:34:19" page="Members"/>
+	<File name="officers.jsp" time="25.06.2001 20:34:18" page="Officers"/>
+	<File name="registration.jsp" time="25.06.2001 20:34:19" page="Registration"/>
+</Files>

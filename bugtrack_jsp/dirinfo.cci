@@ -1,0 +1,15 @@
+<?xml version="1.0"?><!-- This file is used by CodeCharge for locking edited files. It may be removed when file locking is not desired. --><Files><File name="administration.jsp" time="25.06.2001 19:58:04" page="Administration"/>
+<File name="bugrecord.jsp" time="25.06.2001 19:58:04" page="BugRecord"/>
+<File name="common.jsp" time="25.06.2001 19:58:04" page=""/>
+<File name="default.jsp" time="25.06.2001 19:58:04" page="Default"/>
+<File name="employeelist.jsp" time="25.06.2001 19:58:04" page="EmployeeList"/>
+<File name="employeemaint.jsp" time="25.06.2001 19:58:04" page="EmployeeMaint"/>
+<File name="header.jsp" time="25.06.2001 19:58:04" page="Header"/>
+<File name="login.jsp" time="25.06.2001 19:58:04" page="Login"/>
+<File name="prioritylist.jsp" time="25.06.2001 19:58:04" page="PriorityList"/>
+<File name="prioritymaint.jsp" time="25.06.2001 19:58:04" page="PriorityMaint"/>
+<File name="projectlist.jsp" time="25.06.2001 19:58:04" page="ProjectList"/>
+<File name="projectmaint.jsp" time="25.06.2001 19:58:04" page="ProjectMaint"/>
+<File name="statuslist.jsp" time="25.06.2001 19:58:04" page="StatusList"/>
+<File name="statusmaint.jsp" time="25.06.2001 19:58:04" page="StatusMaint"/>
+</Files>
